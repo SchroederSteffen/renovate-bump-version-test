@@ -22,4 +22,4 @@ The other PRs (#4 & #6) don't bump the version.
 
 ## Expectation
 
-We (Renovate user) expect it to update the `version` in any case, but currently it only updates it if the `package.json` is touched.
+We expect it to update the `version` in any case (for all PRs).
