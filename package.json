@@ -7,6 +7,6 @@
     "url": "https://github.com/SchroederSteffen/renovate-bump-version-test.git"
   },
   "dependencies": {
-    "renovate": "^35.71.0"
+    "renovate": "35"
   }
 }
