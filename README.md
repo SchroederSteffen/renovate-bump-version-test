@@ -18,7 +18,7 @@ This lets Renovate create three PRs:
 
 Unfortunately, only the PR for the major version (#5) also bumps the `version` in the `package.json`.
 
-The other PRs (#4 & #5) don't bump the version.
+The other PRs (#4 & #6) don't bump the version.
 
 ## Expectation
 
