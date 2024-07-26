@@ -1,12 +1,12 @@
 {
   "name": "renovate-bump-version-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renovate versioning bumping test",
   "repository": {
     "type": "git",
     "url": "https://github.com/SchroederSteffen/renovate-bump-version-test.git"
   },
   "dependencies": {
-    "renovate": "34"
+    "renovate": "38"
   }
 }
