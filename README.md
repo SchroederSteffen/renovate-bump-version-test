@@ -2,6 +2,8 @@
 
 This repository demonstrates the [bumpVersion](https://docs.renovatebot.com/configuration-options/#bumpversion) behavior of [Renovate](https://docs.renovatebot.com/) when only the `package-lock.json` but not the `package.json` is touched.
 
+Reproduction for https://github.com/renovatebot/renovate/issues/21996 / https://github.com/renovatebot/renovate/discussions/21972.
+
 ## Setup
 
 This repository uses Renovate's `base` configuration, sets `bumpVersion: patch` and enables `lockFileMaintenance`.
